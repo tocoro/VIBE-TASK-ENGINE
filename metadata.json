@@ -1,0 +1,5 @@
+{
+  "name": "VibeTask Engine",
+  "description": "A task gamification engine based on the methodology of separating incentive generation from task execution. Turn boring to-do lists into generated RPG quests using Gemini.",
+  "requestFramePermissions": []
+}
